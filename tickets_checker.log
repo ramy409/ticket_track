@@ -1,0 +1,396 @@
+2025-04-21 17:36:51,501 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.10:8080
+2025-04-21 17:36:51,502 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-21 17:37:04,195 - INFO - 192.168.1.10 - - [21/Apr/2025 17:37:04] "GET / HTTP/1.1" 200 -
+2025-04-21 17:37:15,584 - INFO - 192.168.1.10 - - [21/Apr/2025 17:37:15] "GET / HTTP/1.1" 200 -
+2025-04-21 17:38:16,482 - INFO - 192.168.1.10 - - [21/Apr/2025 17:38:16] "GET / HTTP/1.1" 200 -
+2025-04-21 17:39:17,481 - INFO - 192.168.1.10 - - [21/Apr/2025 17:39:17] "GET / HTTP/1.1" 200 -
+2025-04-21 17:40:17,548 - INFO - 192.168.1.10 - - [21/Apr/2025 17:40:17] "GET / HTTP/1.1" 200 -
+2025-04-21 17:41:18,469 - INFO - 192.168.1.10 - - [21/Apr/2025 17:41:18] "GET / HTTP/1.1" 200 -
+2025-04-21 17:42:19,469 - INFO - 192.168.1.10 - - [21/Apr/2025 17:42:19] "GET / HTTP/1.1" 200 -
+2025-04-21 17:55:44,310 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.10:8080
+2025-04-21 17:55:44,310 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-21 17:55:49,341 - INFO - 192.168.1.10 - - [21/Apr/2025 17:55:49] "GET / HTTP/1.1" 200 -
+2025-04-21 17:55:52,202 - INFO - 192.168.1.10 - - [21/Apr/2025 17:55:52] "GET / HTTP/1.1" 200 -
+2025-04-21 17:56:52,487 - INFO - 192.168.1.10 - - [21/Apr/2025 17:56:52] "GET / HTTP/1.1" 200 -
+2025-04-21 17:57:53,477 - INFO - 192.168.1.10 - - [21/Apr/2025 17:57:53] "GET / HTTP/1.1" 200 -
+2025-04-21 17:58:52,596 - INFO - 192.168.1.10 - - [21/Apr/2025 17:58:52] "GET / HTTP/1.1" 200 -
+2025-04-21 17:58:54,676 - INFO - 192.168.1.10 - - [21/Apr/2025 17:58:54] "GET / HTTP/1.1" 200 -
+2025-04-21 17:59:04,045 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.10:8080
+2025-04-21 17:59:04,046 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-21 17:59:10,994 - INFO - 192.168.1.10 - - [21/Apr/2025 17:59:10] "GET / HTTP/1.1" 200 -
+2025-04-21 18:00:11,495 - INFO - 192.168.1.10 - - [21/Apr/2025 18:00:11] "GET / HTTP/1.1" 200 -
+2025-04-21 18:01:12,497 - INFO - 192.168.1.10 - - [21/Apr/2025 18:01:12] "GET / HTTP/1.1" 200 -
+2025-04-21 18:01:21,765 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.10:8080
+2025-04-21 18:01:21,766 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-21 18:01:24,309 - INFO - 127.0.0.1 - - [21/Apr/2025 18:01:24] "GET / HTTP/1.1" 200 -
+2025-04-21 18:01:24,506 - INFO - 127.0.0.1 - - [21/Apr/2025 18:01:24] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-04-21 18:01:36,895 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.10:8080
+2025-04-21 18:01:36,895 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-21 18:01:40,187 - INFO - 127.0.0.1 - - [21/Apr/2025 18:01:40] "GET / HTTP/1.1" 200 -
+2025-04-21 18:16:45,331 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.10:8080
+2025-04-21 18:16:45,332 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-21 18:16:49,876 - INFO - 192.168.1.10 - - [21/Apr/2025 18:16:49] "GET / HTTP/1.1" 200 -
+2025-04-21 18:16:54,763 - INFO - 192.168.1.10 - - [21/Apr/2025 18:16:54] "GET / HTTP/1.1" 200 -
+2025-04-21 18:16:56,271 - INFO - 192.168.1.10 - - [21/Apr/2025 18:16:56] "GET / HTTP/1.1" 200 -
+2025-04-21 18:16:57,311 - INFO - 192.168.1.10 - - [21/Apr/2025 18:16:57] "GET / HTTP/1.1" 200 -
+2025-04-21 18:16:58,085 - INFO - 192.168.1.10 - - [21/Apr/2025 18:16:58] "GET / HTTP/1.1" 200 -
+2025-04-21 18:16:58,392 - INFO - 192.168.1.10 - - [21/Apr/2025 18:16:58] "GET / HTTP/1.1" 200 -
+2025-04-21 18:16:58,689 - INFO - 192.168.1.10 - - [21/Apr/2025 18:16:58] "GET / HTTP/1.1" 200 -
+2025-04-21 18:16:59,089 - INFO - 192.168.1.10 - - [21/Apr/2025 18:16:59] "GET / HTTP/1.1" 200 -
+2025-04-21 18:17:00,240 - INFO - 192.168.1.10 - - [21/Apr/2025 18:17:00] "GET / HTTP/1.1" 200 -
+2025-04-21 18:17:00,954 - INFO - 192.168.1.10 - - [21/Apr/2025 18:17:00] "GET / HTTP/1.1" 200 -
+2025-04-21 18:17:03,243 - INFO - 192.168.1.10 - - [21/Apr/2025 18:17:03] "GET / HTTP/1.1" 200 -
+2025-04-21 19:40:35,262 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.10:8080
+2025-04-21 19:40:35,264 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-21 19:40:40,403 - INFO - 192.168.1.10 - - [21/Apr/2025 19:40:40] "GET / HTTP/1.1" 200 -
+2025-04-21 19:40:45,028 - INFO - 192.168.1.10 - - [21/Apr/2025 19:40:45] "GET / HTTP/1.1" 200 -
+2025-04-21 19:40:49,547 - INFO - 'Load More' button not available or not clickable: Message: invalid selector: An invalid or illegal selector was specified
+  (Session info: chrome=135.0.7049.96); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF68B7A5355+78597]
+	GetHandleVerifier [0x00007FF68B7A53B0+78688]
+	(No symbol) [0x00007FF68B5591AA]
+	(No symbol) [0x00007FF68B560ABC]
+	(No symbol) [0x00007FF68B563B1C]
+	(No symbol) [0x00007FF68B563BEF]
+	(No symbol) [0x00007FF68B5AE9F7]
+	(No symbol) [0x00007FF68B5AF3FC]
+	(No symbol) [0x00007FF68B602467]
+	(No symbol) [0x00007FF68B5D712F]
+	(No symbol) [0x00007FF68B5FF2BB]
+	(No symbol) [0x00007FF68B5D6EC3]
+	(No symbol) [0x00007FF68B5A03F8]
+	(No symbol) [0x00007FF68B5A1163]
+	GetHandleVerifier [0x00007FF68BA4EF0D+2870973]
+	GetHandleVerifier [0x00007FF68BA496B8+2848360]
+	GetHandleVerifier [0x00007FF68BA66993+2967875]
+	GetHandleVerifier [0x00007FF68B7C019A+188746]
+	GetHandleVerifier [0x00007FF68B7C847F+222255]
+	GetHandleVerifier [0x00007FF68B7AD2D4+111236]
+	GetHandleVerifier [0x00007FF68B7AD482+111666]
+	GetHandleVerifier [0x00007FF68B7935A9+5465]
+	BaseThreadInitThunk [0x00007FF8454EE8D7+23]
+	RtlUserThreadStart [0x00007FF8461314FC+44]
+
+2025-04-21 19:40:49,572 - INFO - 'Load More' button not available or not clickable: Message: invalid selector: An invalid or illegal selector was specified
+  (Session info: chrome=135.0.7049.96); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF68B7A5355+78597]
+	GetHandleVerifier [0x00007FF68B7A53B0+78688]
+	(No symbol) [0x00007FF68B5591AA]
+	(No symbol) [0x00007FF68B560ABC]
+	(No symbol) [0x00007FF68B563B1C]
+	(No symbol) [0x00007FF68B563BEF]
+	(No symbol) [0x00007FF68B5AE9F7]
+	(No symbol) [0x00007FF68B5AF3FC]
+	(No symbol) [0x00007FF68B602467]
+	(No symbol) [0x00007FF68B5D712F]
+	(No symbol) [0x00007FF68B5FF2BB]
+	(No symbol) [0x00007FF68B5D6EC3]
+	(No symbol) [0x00007FF68B5A03F8]
+	(No symbol) [0x00007FF68B5A1163]
+	GetHandleVerifier [0x00007FF68BA4EF0D+2870973]
+	GetHandleVerifier [0x00007FF68BA496B8+2848360]
+	GetHandleVerifier [0x00007FF68BA66993+2967875]
+	GetHandleVerifier [0x00007FF68B7C019A+188746]
+	GetHandleVerifier [0x00007FF68B7C847F+222255]
+	GetHandleVerifier [0x00007FF68B7AD2D4+111236]
+	GetHandleVerifier [0x00007FF68B7AD482+111666]
+	GetHandleVerifier [0x00007FF68B7935A9+5465]
+	BaseThreadInitThunk [0x00007FF8454EE8D7+23]
+	RtlUserThreadStart [0x00007FF8461314FC+44]
+
+2025-04-21 19:40:59,931 - INFO - 'Load More' button not available or not clickable: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF68B7A5355+78597]
+	GetHandleVerifier [0x00007FF68B7A53B0+78688]
+	(No symbol) [0x00007FF68B5591AA]
+	(No symbol) [0x00007FF68B5AF149]
+	(No symbol) [0x00007FF68B5AF3FC]
+	(No symbol) [0x00007FF68B602467]
+	(No symbol) [0x00007FF68B5D712F]
+	(No symbol) [0x00007FF68B5FF2BB]
+	(No symbol) [0x00007FF68B5D6EC3]
+	(No symbol) [0x00007FF68B5A03F8]
+	(No symbol) [0x00007FF68B5A1163]
+	GetHandleVerifier [0x00007FF68BA4EF0D+2870973]
+	GetHandleVerifier [0x00007FF68BA496B8+2848360]
+	GetHandleVerifier [0x00007FF68BA66993+2967875]
+	GetHandleVerifier [0x00007FF68B7C019A+188746]
+	GetHandleVerifier [0x00007FF68B7C847F+222255]
+	GetHandleVerifier [0x00007FF68B7AD2D4+111236]
+	GetHandleVerifier [0x00007FF68B7AD482+111666]
+	GetHandleVerifier [0x00007FF68B7935A9+5465]
+	BaseThreadInitThunk [0x00007FF8454EE8D7+23]
+	RtlUserThreadStart [0x00007FF8461314FC+44]
+
+2025-04-21 19:41:10,253 - INFO - 'Load More' button not available or not clickable: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF68B7A5355+78597]
+	GetHandleVerifier [0x00007FF68B7A53B0+78688]
+	(No symbol) [0x00007FF68B5591AA]
+	(No symbol) [0x00007FF68B5AF149]
+	(No symbol) [0x00007FF68B5AF3FC]
+	(No symbol) [0x00007FF68B602467]
+	(No symbol) [0x00007FF68B5D712F]
+	(No symbol) [0x00007FF68B5FF2BB]
+	(No symbol) [0x00007FF68B5D6EC3]
+	(No symbol) [0x00007FF68B5A03F8]
+	(No symbol) [0x00007FF68B5A1163]
+	GetHandleVerifier [0x00007FF68BA4EF0D+2870973]
+	GetHandleVerifier [0x00007FF68BA496B8+2848360]
+	GetHandleVerifier [0x00007FF68BA66993+2967875]
+	GetHandleVerifier [0x00007FF68B7C019A+188746]
+	GetHandleVerifier [0x00007FF68B7C847F+222255]
+	GetHandleVerifier [0x00007FF68B7AD2D4+111236]
+	GetHandleVerifier [0x00007FF68B7AD482+111666]
+	GetHandleVerifier [0x00007FF68B7935A9+5465]
+	BaseThreadInitThunk [0x00007FF8454EE8D7+23]
+	RtlUserThreadStart [0x00007FF8461314FC+44]
+
+2025-04-21 19:41:20,633 - INFO - 'Load More' button not available or not clickable: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF68B7A5355+78597]
+	GetHandleVerifier [0x00007FF68B7A53B0+78688]
+	(No symbol) [0x00007FF68B5591AA]
+	(No symbol) [0x00007FF68B5AF149]
+	(No symbol) [0x00007FF68B5AF3FC]
+	(No symbol) [0x00007FF68B602467]
+	(No symbol) [0x00007FF68B5D712F]
+	(No symbol) [0x00007FF68B5FF2BB]
+	(No symbol) [0x00007FF68B5D6EC3]
+	(No symbol) [0x00007FF68B5A03F8]
+	(No symbol) [0x00007FF68B5A1163]
+	GetHandleVerifier [0x00007FF68BA4EF0D+2870973]
+	GetHandleVerifier [0x00007FF68BA496B8+2848360]
+	GetHandleVerifier [0x00007FF68BA66993+2967875]
+	GetHandleVerifier [0x00007FF68B7C019A+188746]
+	GetHandleVerifier [0x00007FF68B7C847F+222255]
+	GetHandleVerifier [0x00007FF68B7AD2D4+111236]
+	GetHandleVerifier [0x00007FF68B7AD482+111666]
+	GetHandleVerifier [0x00007FF68B7935A9+5465]
+	BaseThreadInitThunk [0x00007FF8454EE8D7+23]
+	RtlUserThreadStart [0x00007FF8461314FC+44]
+
+2025-04-21 19:41:31,092 - INFO - 'Load More' button not available or not clickable: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF68B7A5355+78597]
+	GetHandleVerifier [0x00007FF68B7A53B0+78688]
+	(No symbol) [0x00007FF68B5591AA]
+	(No symbol) [0x00007FF68B5AF149]
+	(No symbol) [0x00007FF68B5AF3FC]
+	(No symbol) [0x00007FF68B602467]
+	(No symbol) [0x00007FF68B5D712F]
+	(No symbol) [0x00007FF68B5FF2BB]
+	(No symbol) [0x00007FF68B5D6EC3]
+	(No symbol) [0x00007FF68B5A03F8]
+	(No symbol) [0x00007FF68B5A1163]
+	GetHandleVerifier [0x00007FF68BA4EF0D+2870973]
+	GetHandleVerifier [0x00007FF68BA496B8+2848360]
+	GetHandleVerifier [0x00007FF68BA66993+2967875]
+	GetHandleVerifier [0x00007FF68B7C019A+188746]
+	GetHandleVerifier [0x00007FF68B7C847F+222255]
+	GetHandleVerifier [0x00007FF68B7AD2D4+111236]
+	GetHandleVerifier [0x00007FF68B7AD482+111666]
+	GetHandleVerifier [0x00007FF68B7935A9+5465]
+	BaseThreadInitThunk [0x00007FF8454EE8D7+23]
+	RtlUserThreadStart [0x00007FF8461314FC+44]
+
+2025-04-21 19:41:41,138 - INFO - 'Load More' button not available or not clickable: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF68B7A5355+78597]
+	GetHandleVerifier [0x00007FF68B7A53B0+78688]
+	(No symbol) [0x00007FF68B5591AA]
+	(No symbol) [0x00007FF68B5AF149]
+	(No symbol) [0x00007FF68B5AF3FC]
+	(No symbol) [0x00007FF68B602467]
+	(No symbol) [0x00007FF68B5D712F]
+	(No symbol) [0x00007FF68B5FF2BB]
+	(No symbol) [0x00007FF68B5D6EC3]
+	(No symbol) [0x00007FF68B5A03F8]
+	(No symbol) [0x00007FF68B5A1163]
+	GetHandleVerifier [0x00007FF68BA4EF0D+2870973]
+	GetHandleVerifier [0x00007FF68BA496B8+2848360]
+	GetHandleVerifier [0x00007FF68BA66993+2967875]
+	GetHandleVerifier [0x00007FF68B7C019A+188746]
+	GetHandleVerifier [0x00007FF68B7C847F+222255]
+	GetHandleVerifier [0x00007FF68B7AD2D4+111236]
+	GetHandleVerifier [0x00007FF68B7AD482+111666]
+	GetHandleVerifier [0x00007FF68B7935A9+5465]
+	BaseThreadInitThunk [0x00007FF8454EE8D7+23]
+	RtlUserThreadStart [0x00007FF8461314FC+44]
+
+2025-04-21 19:41:51,549 - INFO - 'Load More' button not available or not clickable: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF68B7A5355+78597]
+	GetHandleVerifier [0x00007FF68B7A53B0+78688]
+	(No symbol) [0x00007FF68B5591AA]
+	(No symbol) [0x00007FF68B5AF149]
+	(No symbol) [0x00007FF68B5AF3FC]
+	(No symbol) [0x00007FF68B602467]
+	(No symbol) [0x00007FF68B5D712F]
+	(No symbol) [0x00007FF68B5FF2BB]
+	(No symbol) [0x00007FF68B5D6EC3]
+	(No symbol) [0x00007FF68B5A03F8]
+	(No symbol) [0x00007FF68B5A1163]
+	GetHandleVerifier [0x00007FF68BA4EF0D+2870973]
+	GetHandleVerifier [0x00007FF68BA496B8+2848360]
+	GetHandleVerifier [0x00007FF68BA66993+2967875]
+	GetHandleVerifier [0x00007FF68B7C019A+188746]
+	GetHandleVerifier [0x00007FF68B7C847F+222255]
+	GetHandleVerifier [0x00007FF68B7AD2D4+111236]
+	GetHandleVerifier [0x00007FF68B7AD482+111666]
+	GetHandleVerifier [0x00007FF68B7935A9+5465]
+	BaseThreadInitThunk [0x00007FF8454EE8D7+23]
+	RtlUserThreadStart [0x00007FF8461314FC+44]
+
+2025-04-21 19:41:51,594 - INFO - 'Load More' button not available or not clickable: Message: invalid selector: An invalid or illegal selector was specified
+  (Session info: chrome=135.0.7049.96); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF68B7A5355+78597]
+	GetHandleVerifier [0x00007FF68B7A53B0+78688]
+	(No symbol) [0x00007FF68B5591AA]
+	(No symbol) [0x00007FF68B560ABC]
+	(No symbol) [0x00007FF68B563B1C]
+	(No symbol) [0x00007FF68B563BEF]
+	(No symbol) [0x00007FF68B5AE9F7]
+	(No symbol) [0x00007FF68B5AF3FC]
+	(No symbol) [0x00007FF68B602467]
+	(No symbol) [0x00007FF68B5D712F]
+	(No symbol) [0x00007FF68B5FF2BB]
+	(No symbol) [0x00007FF68B5D6EC3]
+	(No symbol) [0x00007FF68B5A03F8]
+	(No symbol) [0x00007FF68B5A1163]
+	GetHandleVerifier [0x00007FF68BA4EF0D+2870973]
+	GetHandleVerifier [0x00007FF68BA496B8+2848360]
+	GetHandleVerifier [0x00007FF68BA66993+2967875]
+	GetHandleVerifier [0x00007FF68B7C019A+188746]
+	GetHandleVerifier [0x00007FF68B7C847F+222255]
+	GetHandleVerifier [0x00007FF68B7AD2D4+111236]
+	GetHandleVerifier [0x00007FF68B7AD482+111666]
+	GetHandleVerifier [0x00007FF68B7935A9+5465]
+	BaseThreadInitThunk [0x00007FF8454EE8D7+23]
+	RtlUserThreadStart [0x00007FF8461314FC+44]
+
+2025-04-21 19:42:02,028 - INFO - 'Load More' button not available or not clickable: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF68B7A5355+78597]
+	GetHandleVerifier [0x00007FF68B7A53B0+78688]
+	(No symbol) [0x00007FF68B5591AA]
+	(No symbol) [0x00007FF68B5AF149]
+	(No symbol) [0x00007FF68B5AF3FC]
+	(No symbol) [0x00007FF68B602467]
+	(No symbol) [0x00007FF68B5D712F]
+	(No symbol) [0x00007FF68B5FF2BB]
+	(No symbol) [0x00007FF68B5D6EC3]
+	(No symbol) [0x00007FF68B5A03F8]
+	(No symbol) [0x00007FF68B5A1163]
+	GetHandleVerifier [0x00007FF68BA4EF0D+2870973]
+	GetHandleVerifier [0x00007FF68BA496B8+2848360]
+	GetHandleVerifier [0x00007FF68BA66993+2967875]
+	GetHandleVerifier [0x00007FF68B7C019A+188746]
+	GetHandleVerifier [0x00007FF68B7C847F+222255]
+	GetHandleVerifier [0x00007FF68B7AD2D4+111236]
+	GetHandleVerifier [0x00007FF68B7AD482+111666]
+	GetHandleVerifier [0x00007FF68B7935A9+5465]
+	BaseThreadInitThunk [0x00007FF8454EE8D7+23]
+	RtlUserThreadStart [0x00007FF8461314FC+44]
+
+2025-04-21 19:42:12,470 - INFO - 'Load More' button not available or not clickable: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF68B7A5355+78597]
+	GetHandleVerifier [0x00007FF68B7A53B0+78688]
+	(No symbol) [0x00007FF68B5591AA]
+	(No symbol) [0x00007FF68B5AF149]
+	(No symbol) [0x00007FF68B5AF3FC]
+	(No symbol) [0x00007FF68B602467]
+	(No symbol) [0x00007FF68B5D712F]
+	(No symbol) [0x00007FF68B5FF2BB]
+	(No symbol) [0x00007FF68B5D6EC3]
+	(No symbol) [0x00007FF68B5A03F8]
+	(No symbol) [0x00007FF68B5A1163]
+	GetHandleVerifier [0x00007FF68BA4EF0D+2870973]
+	GetHandleVerifier [0x00007FF68BA496B8+2848360]
+	GetHandleVerifier [0x00007FF68BA66993+2967875]
+	GetHandleVerifier [0x00007FF68B7C019A+188746]
+	GetHandleVerifier [0x00007FF68B7C847F+222255]
+	GetHandleVerifier [0x00007FF68B7AD2D4+111236]
+	GetHandleVerifier [0x00007FF68B7AD482+111666]
+	GetHandleVerifier [0x00007FF68B7935A9+5465]
+	BaseThreadInitThunk [0x00007FF8454EE8D7+23]
+	RtlUserThreadStart [0x00007FF8461314FC+44]
+
+2025-04-21 19:42:22,907 - INFO - 'Load More' button not available or not clickable: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF68B7A5355+78597]
+	GetHandleVerifier [0x00007FF68B7A53B0+78688]
+	(No symbol) [0x00007FF68B5591AA]
+	(No symbol) [0x00007FF68B5AF149]
+	(No symbol) [0x00007FF68B5AF3FC]
+	(No symbol) [0x00007FF68B602467]
+	(No symbol) [0x00007FF68B5D712F]
+	(No symbol) [0x00007FF68B5FF2BB]
+	(No symbol) [0x00007FF68B5D6EC3]
+	(No symbol) [0x00007FF68B5A03F8]
+	(No symbol) [0x00007FF68B5A1163]
+	GetHandleVerifier [0x00007FF68BA4EF0D+2870973]
+	GetHandleVerifier [0x00007FF68BA496B8+2848360]
+	GetHandleVerifier [0x00007FF68BA66993+2967875]
+	GetHandleVerifier [0x00007FF68B7C019A+188746]
+	GetHandleVerifier [0x00007FF68B7C847F+222255]
+	GetHandleVerifier [0x00007FF68B7AD2D4+111236]
+	GetHandleVerifier [0x00007FF68B7AD482+111666]
+	GetHandleVerifier [0x00007FF68B7935A9+5465]
+	BaseThreadInitThunk [0x00007FF8454EE8D7+23]
+	RtlUserThreadStart [0x00007FF8461314FC+44]
+
+2025-04-21 19:42:33,355 - INFO - 'Load More' button not available or not clickable: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF68B7A5355+78597]
+	GetHandleVerifier [0x00007FF68B7A53B0+78688]
+	(No symbol) [0x00007FF68B5591AA]
+	(No symbol) [0x00007FF68B5AF149]
+	(No symbol) [0x00007FF68B5AF3FC]
+	(No symbol) [0x00007FF68B602467]
+	(No symbol) [0x00007FF68B5D712F]
+	(No symbol) [0x00007FF68B5FF2BB]
+	(No symbol) [0x00007FF68B5D6EC3]
+	(No symbol) [0x00007FF68B5A03F8]
+	(No symbol) [0x00007FF68B5A1163]
+	GetHandleVerifier [0x00007FF68BA4EF0D+2870973]
+	GetHandleVerifier [0x00007FF68BA496B8+2848360]
+	GetHandleVerifier [0x00007FF68BA66993+2967875]
+	GetHandleVerifier [0x00007FF68B7C019A+188746]
+	GetHandleVerifier [0x00007FF68B7C847F+222255]
+	GetHandleVerifier [0x00007FF68B7AD2D4+111236]
+	GetHandleVerifier [0x00007FF68B7AD482+111666]
+	GetHandleVerifier [0x00007FF68B7935A9+5465]
+	BaseThreadInitThunk [0x00007FF8454EE8D7+23]
+	RtlUserThreadStart [0x00007FF8461314FC+44]
+
+2025-04-21 19:42:33,722 - INFO - Clicked 'Load More' button (1) using selector: a
+2025-04-21 19:42:38,862 - INFO - Clicked 'Load More' button (2) using selector: a
+2025-04-21 19:42:43,973 - INFO - Clicked 'Load More' button (3) using selector: a
+2025-04-21 19:42:49,106 - INFO - Clicked 'Load More' button (4) using selector: a
+2025-04-21 19:42:54,268 - INFO - Clicked 'Load More' button (5) using selector: a
